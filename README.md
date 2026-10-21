@@ -917,6 +917,22 @@ Our approach emphasizes clarity, functionality, and responsible delivery.
 
 Each project follows a workflow appropriate to its size, scope, and requirements.
 
+# Explore Our Work
+
+Our GitHub organization is where we design, develop, maintain, and share software projects, independent applications, technical experiments, reusable tools, and technology resources.
+
+We organize our repositories into categories to make them easier to explore and help our community discover the solutions we build, the technologies we use, and their potential applications.
+
+Our work focuses primarily on software development and includes the following categories:
+
+- **Microapps and Commercial Solutions:** independent applications designed to address specific business needs.
+- **Websites and Our Own Platforms:** corporate websites, digital platforms, and products developed by SatCore Solutions.
+- **Demos and Prototypes:** demonstration applications, technical experiments, proof-of-concept projects, and functional prototypes.
+- **Reusable Libraries and Components:** resources that simplify and optimize software development.
+- **Technology Tools and Resources:** supporting projects, documentation, and solutions that contribute to technological innovation.
+
+---
+
 ## Who We Serve
 
 We develop solutions for:
@@ -931,20 +947,118 @@ We develop solutions for:
 **Coverage:** Colombia and Latin America  
 **Delivery model:** Remote and digital-first.
 
-## Explore Our Work
+---
 
-Our GitHub organization is where we develop, maintain, and share software projects, technical experiments, reusable tools, and educational resources.
+## Microapps and Commercial Solutions
 
-Explore our repositories to discover our work across software development, intelligent automation, cybersecurity, technology education, and digital strategy.
+We develop independent applications designed to address specific business needs. These solutions can be used as digital tools or adapted to meet individual client requirements.
+
+We organize our microapps into functional categories to make it easier to explore our projects and identify solutions suited to different business needs.
+
+### Sales and Commercial Services
+
+This category includes microapps focused on commercial management, customer service, customer loyalty, sales administration, and the digitalization of business services.
+
+#### Digital Business Cards, Identification, and Access
+
+- [SatCore Card](https://github.com/satcoresolutions/satcore-card) — digital business card project.
+- [SatCore QR](https://github.com/satcoresolutions/satcore-qr) — QR code-based solution.
+
+#### Marketing, Promotions, and Customer Loyalty
+
+- [Cuponera Digital](https://github.com/satcoresolutions/cuponera-digital) — digital coupon management and presentation.
+- [Programa de Fidelización](https://github.com/satcoresolutions/programa-fidelizacion) — tools for customer loyalty programs.
+
+#### Customer and Purchase Management
+
+- [Historial de Compras](https://github.com/satcoresolutions/historial-compras) — purchase history lookup and tracking.
+- [Lista de Clientes](https://github.com/satcoresolutions/lista-clientes) — customer information organization and management.
+
+#### Commercial Documents
+
+- [Generador de Recibos](https://github.com/satcoresolutions/generador-recibos) — commercial receipt generation.
+- [Generador de Facturas](https://github.com/satcoresolutions/generador-facturas) — invoice document generation.
+- [Generador de Cotizaciones](https://github.com/satcoresolutions/satcore-generador-cotizaciones) — commercial quotation preparation.
+
+#### Restaurants, Orders, and Digital Menus
+
+- [SatCore Menú Digital QR](https://github.com/satcoresolutions/satcore-menu-digital-qr) — digital menu presentation through QR codes.
+- [SatCore Comandas Digitales](https://github.com/satcoresolutions/satcore-comandas-digitales) — digital order and kitchen ticket management.
+
+#### Commercial Control and Administration
+
+- [SatCore Control de Caja](https://github.com/satcoresolutions/satcore-control-caja) — cash management support.
+- [SatCore Control de Ventas](https://github.com/satcoresolutions/satcore-control-ventas) — sales tracking and control.
+- [SatCore Calculadora de Precios](https://github.com/satcoresolutions/satcore-calculadora-precios) — price calculation for products and services.
+
+Each repository contains its own code and documentation. Visit the relevant project to learn about its features, technologies, installation requirements, demos, and customization possibilities.
+
+---
+
+## Websites and Our Own Platforms
+
+This category brings together websites, digital platforms, and products developed by SatCore Solutions to present projects, brands, and services and deliver digital experiences.
+
+It includes web projects associated with our organization's own initiatives, separate from client projects, demonstration applications, and experimental prototypes.
+
+### Corporate Websites
+
+- [SatCore Corporative](https://github.com/satcoresolutions/satcore-corporative) — corporate website project for SatCore Solutions.
+- [SatCore Corp](https://github.com/satcoresolutions/satcore-corp) — web project related to SatCore Solutions' corporate presence.
+
+---
+
+## Client Projects
+
+This category features digital projects developed by SatCore Solutions for clients, based on their specific needs and objectives.
+
+- [Pizzería Dsofy](https://github.com/satcoresolutions/pizzeria-dsofy) — website project developed for a client in the food service industry.
+
+---
+
+## Demos and Prototypes
+
+This category includes demonstration applications, functional prototypes, proof-of-concept projects, and technical experiments developed to explore ideas, evaluate technologies, validate design concepts, and test different implementation approaches.
+
+These projects allow us to experiment with features, software architectures, and user interfaces without necessarily classifying them as commercial microapps or finished products.
+
+### Demonstration Applications and Projects
+
+- [LP Vanguardia](https://github.com/satcoresolutions/lp_vanguardia) — test landing page created to explore a web design and presentation concept.
+- [SatCore Solutions Scaffold Landingpage](https://github.com/satcoresolutions/satcore-solutions-scaffold-landingpage) — demonstration project focused on landing page structure and development.
+- [SatCore Solutions Commercial Catalog](https://github.com/satcoresolutions/satcore-solutions-commercial-catalog) — demonstration project related to the presentation and organization of commercial catalogs.
+- [Wayra Tours](https://github.com/satcoresolutions/wayra-tours) — demonstration project exploring a website concept for the tourism industry.
+- [Catálogo Hoja de Cálculo](https://github.com/satcoresolutions/catalogo-hojacalculo) — experimental project related to organizing and presenting catalogs through spreadsheets.
+
+Projects in this category can serve as technical references, experimentation environments, foundations for new implementations, or starting points for future development. Their scope and development status depend on the characteristics of each repository.
+
+---
+
+## Reusable Libraries and Components
+
+We bring together software resources designed to simplify development, encourage code reuse, and maintain greater consistency across projects.
+
+This category includes libraries, components, modules, and other resources that can be reused across multiple implementations.
+
+---
+
+## Technology Tools and Resources
+
+This category groups supporting projects, technical documentation, utilities, and resources that help improve software development, organization, and maintenance processes.
+
+Our goal is to share tools that simplify technical tasks, provide references for other projects, and encourage technological experimentation.
+
+---
+
+## Explore Our Repositories
+
+We continue to develop technology solutions and expand our project portfolio. Explore our organization to discover new initiatives, browse available source code, and find applications, prototypes, experiments, and resources created by SatCore Solutions.
 
 <div align="center">
-
-  <p><strong>Explore our repositories and follow our development journey.</strong></p>
-
+  <p><strong>Explore our repositories and discover the solutions we are building.</strong></p>
   <a href="https://github.com/satcoresolutions">
     <img src="https://img.shields.io/badge/Explore%20Our%20Repositories-132A8E?style=for-the-badge&logo=github&logoColor=white" alt="Explore SatCore Solutions repositories" />
   </a>
-
 </div>
 
 ## Contact and Community
