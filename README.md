@@ -410,18 +410,31 @@ Desarrollamos soluciones para:
 
 ## Explora nuestro trabajo
 
-Nuestra organización en GitHub es el espacio donde desarrollamos, mantenemos y compartimos proyectos de software, experimentos técnicos, herramientas reutilizables y recursos educativos.
+Nuestra organización en GitHub es el espacio donde diseñamos, desarrollamos, mantenemos y compartimos proyectos de software, aplicaciones independientes, experimentos técnicos, herramientas reutilizables y recursos tecnológicos.
 
-Explora nuestros repositorios para conocer nuestro trabajo en desarrollo de software, automatización inteligente, ciberseguridad, educación tecnológica y estrategia digital.
+Organizamos nuestros repositorios por categorías para facilitar su exploración y permitir que nuestra comunidad conozca las soluciones que desarrollamos, las tecnologías que utilizamos y las posibilidades de aplicación de cada proyecto.
+
+Nuestro trabajo se centra principalmente en el desarrollo de software y comprende las siguientes categorías:
+
+- **Microapps y soluciones comerciales:** aplicaciones independientes, demos y plantillas orientadas a necesidades específicas de negocios.
+- **Sitios web y plataformas propias:** sitios corporativos, plataformas digitales y productos desarrollados por SatCore Solutions.
+- **Demos y prototipos:** experimentos técnicos, pruebas de concepto y demostraciones de funcionalidades.
+- **Librerías y componentes reutilizables:** recursos que facilitan y optimizan el desarrollo de software.
+- **Herramientas y recursos tecnológicos:** proyectos de apoyo, documentación y soluciones que contribuyen a la innovación tecnológica.
+
+### Microapps y soluciones comerciales
+
+Desarrollamos demos y plantillas que pueden servir como base para nuevos productos digitales o adaptarse a las necesidades específicas de cada cliente.
+
+Estas soluciones se organizan por categorías, como **venta y comercio**, para facilitar la identificación de proyectos según su finalidad y el tipo de necesidad que buscan resolver.
+
+Cada repositorio puede incluir información sobre sus funcionalidades, tecnologías, requisitos de instalación, demostraciones y posibilidades de personalización, según las características del proyecto.
 
 <div align="center">
-
-  <p><strong>Explora nuestros repositorios y acompáñanos en nuestro proceso de desarrollo.</strong></p>
-
+  <p><strong>Explora nuestros repositorios y descubre las soluciones que estamos construyendo.</strong></p>
   <a href="https://github.com/satcoresolutions">
     <img src="https://img.shields.io/badge/Explorar%20repositorios-132A8E?style=for-the-badge&logo=github&logoColor=white" alt="Explorar repositorios de SatCore Solutions" />
   </a>
-
 </div>
 
 ## Contacto y comunidad
