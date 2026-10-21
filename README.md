@@ -408,7 +408,7 @@ Desarrollamos soluciones para:
 **Cobertura:** Colombia y Latinoamérica  
 **Modalidad de servicio:** Remota y digital.
 
-## Explora nuestro trabajo
+# Explora nuestro trabajo
 
 Nuestra organización en GitHub es el espacio donde diseñamos, desarrollamos, mantenemos y compartimos proyectos de software, aplicaciones independientes, experimentos técnicos, herramientas reutilizables y recursos tecnológicos.
 
@@ -416,49 +416,51 @@ Organizamos nuestros repositorios por categorías para facilitar su exploración
 
 Nuestro trabajo se centra principalmente en el desarrollo de software y comprende las siguientes categorías:
 
-- **Microapps y soluciones comerciales:** aplicaciones independientes, demos y plantillas orientadas a necesidades específicas de negocios.
+- **Microapps y soluciones comerciales:** aplicaciones independientes orientadas a resolver necesidades específicas de negocios.
 - **Sitios web y plataformas propias:** sitios corporativos, plataformas digitales y productos desarrollados por SatCore Solutions.
-- **Demos y prototipos:** experimentos técnicos, pruebas de concepto y demostraciones de funcionalidades.
+- **Demos y prototipos:** aplicaciones de demostración, experimentos técnicos, pruebas de concepto y prototipos funcionales.
 - **Librerías y componentes reutilizables:** recursos que facilitan y optimizan el desarrollo de software.
 - **Herramientas y recursos tecnológicos:** proyectos de apoyo, documentación y soluciones que contribuyen a la innovación tecnológica.
 
-### Microapps y soluciones comerciales
+---
 
-Desarrollamos aplicaciones independientes, demos y plantillas que ayudan a resolver necesidades concretas de los negocios. Estas soluciones pueden utilizarse como herramientas digitales, servir como base para nuevos proyectos o adaptarse a los requerimientos de cada cliente.
+## Microapps y soluciones comerciales
+
+Desarrollamos aplicaciones independientes orientadas a resolver necesidades concretas de los negocios. Estas soluciones pueden utilizarse como herramientas digitales o adaptarse a los requerimientos de cada cliente.
 
 Organizamos nuestras microapps por categorías funcionales para facilitar su exploración e identificar las soluciones más adecuadas según las necesidades de cada negocio.
 
-#### Ventas y servicios comerciales
+### Ventas y servicios comerciales
 
 Esta categoría reúne microapps orientadas a la gestión comercial, la atención al cliente, la fidelización, la administración de ventas y la digitalización de servicios para negocios.
 
-**Tarjetas digitales, identificación y acceso**
+#### Tarjetas digitales, identificación y acceso
 
 - [SatCore Card](https://github.com/satcoresolutions/satcore-card) — proyecto de tarjetas digitales.
 - [SatCore QR](https://github.com/satcoresolutions/satcore-qr) — solución basada en códigos QR.
 
-**Marketing, promociones y fidelización**
+#### Marketing, promociones y fidelización
 
 - [Cuponera Digital](https://github.com/satcoresolutions/cuponera-digital) — gestión y presentación de cupones digitales.
 - [Programa de Fidelización](https://github.com/satcoresolutions/programa-fidelizacion) — herramientas para programas de fidelización de clientes.
 
-**Gestión de clientes y compras**
+#### Gestión de clientes y compras
 
 - [Historial de Compras](https://github.com/satcoresolutions/historial-compras) — consulta y seguimiento del historial de compras.
 - [Lista de Clientes](https://github.com/satcoresolutions/lista-clientes) — organización y gestión de información de clientes.
 
-**Documentos comerciales**
+#### Documentos comerciales
 
 - [Generador de Recibos](https://github.com/satcoresolutions/generador-recibos) — generación de recibos comerciales.
 - [Generador de Facturas](https://github.com/satcoresolutions/generador-facturas) — generación de documentos de facturación.
 - [Generador de Cotizaciones](https://github.com/satcoresolutions/satcore-generador-cotizaciones) — elaboración de cotizaciones comerciales.
 
-**Restaurantes, pedidos y menús digitales**
+#### Restaurantes, pedidos y menús digitales
 
 - [SatCore Menú Digital QR](https://github.com/satcoresolutions/satcore-menu-digital-qr) — presentación de menús digitales mediante códigos QR.
 - [SatCore Comandas Digitales](https://github.com/satcoresolutions/satcore-comandas-digitales) — gestión digital de comandas y pedidos.
 
-**Control y administración comercial**
+#### Control y administración comercial
 
 - [SatCore Control de Caja](https://github.com/satcoresolutions/satcore-control-caja) — apoyo al control de caja.
 - [SatCore Control de Ventas](https://github.com/satcoresolutions/satcore-control-ventas) — seguimiento y control de ventas.
@@ -466,9 +468,53 @@ Esta categoría reúne microapps orientadas a la gestión comercial, la atenció
 
 Cada repositorio contiene su propio código y documentación. Consulta el proyecto correspondiente para conocer sus funcionalidades, tecnologías, requisitos de instalación, demostraciones y posibilidades de personalización.
 
-### Explora nuestros repositorios
+---
 
-Continuamos desarrollando soluciones tecnológicas y ampliando nuestro catálogo de proyectos. Explora nuestra organización para conocer más iniciativas, consultar el código disponible y descubrir nuevas herramientas.
+## Sitios web y plataformas propias
+
+Esta categoría reúne sitios web, plataformas digitales y productos desarrollados por SatCore Solutions para presentar proyectos, marcas y servicios, así como para ofrecer experiencias digitales.
+
+Aquí se organizan las soluciones web que forman parte de los proyectos propios de la organización, diferenciándolas de las aplicaciones de demostración y los prototipos experimentales.
+
+---
+
+## Demos y prototipos
+
+Esta categoría reúne aplicaciones de demostración, prototipos funcionales, pruebas de concepto y experimentos técnicos desarrollados para explorar ideas, evaluar tecnologías, validar propuestas de diseño y probar diferentes enfoques de implementación.
+
+Estos proyectos permiten experimentar con funcionalidades, estructuras de software e interfaces sin clasificarlos necesariamente como microapps comerciales o productos definitivos.
+
+### Aplicaciones y proyectos de demostración
+
+- [LP Vanguardia](https://github.com/satcoresolutions/lp_vanguardia) — landing page de prueba desarrollada como demo para explorar una propuesta de diseño y presentación web.
+- [SatCore Solutions Scaffold Landingpage](https://github.com/satcoresolutions/satcore-solutions-scaffold-landingpage) — proyecto de demostración relacionado con la estructura y el desarrollo de landing pages.
+- [SatCore Solutions Commercial Catalog](https://github.com/satcoresolutions/satcore-solutions-commercial-catalog) — proyecto de demostración relacionado con la presentación y organización de catálogos comerciales.
+- [Wayra Tours](https://github.com/satcoresolutions/wayra-tours) — proyecto de demostración relacionado con una propuesta web para el sector turístico.
+- [Catálogo Hoja de Cálculo](https://github.com/satcoresolutions/catalogo-hojacalculo) — proyecto experimental relacionado con la presentación y organización de catálogos mediante hojas de cálculo.
+
+Los proyectos de esta categoría pueden utilizarse como referencias técnicas, entornos de experimentación, bases para nuevas implementaciones o puntos de partida para futuros desarrollos. Su alcance y estado de desarrollo dependen de las características de cada repositorio.
+
+---
+
+## Librerías y componentes reutilizables
+
+Reunimos recursos de software diseñados para facilitar el desarrollo, promover la reutilización de código y mantener una estructura más consistente entre diferentes proyectos.
+
+En esta categoría incorporamos librerías, componentes, módulos y otras herramientas que puedan aprovecharse en múltiples implementaciones.
+
+---
+
+## Herramientas y recursos tecnológicos
+
+Esta categoría agrupa proyectos de apoyo, documentación técnica, utilidades y recursos que contribuyen a mejorar los procesos de desarrollo, organización y mantenimiento del software.
+
+Nuestro objetivo es compartir herramientas que puedan facilitar tareas técnicas, servir como referencia para otros proyectos y fomentar la experimentación tecnológica.
+
+---
+
+## Explora nuestros repositorios
+
+Continuamos desarrollando soluciones tecnológicas y ampliando nuestro catálogo de proyectos. Explora nuestra organización para conocer nuevas iniciativas, consultar el código disponible y descubrir aplicaciones, prototipos, experimentos y recursos creados por SatCore Solutions.
 
 <div align="center">
   <p><strong>Explora nuestros repositorios y descubre las soluciones que estamos construyendo.</strong></p>
