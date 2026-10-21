@@ -476,6 +476,19 @@ Esta categoría reúne sitios web, plataformas digitales y productos desarrollad
 
 Aquí se organizan las soluciones web que forman parte de los proyectos propios de la organización, diferenciándolas de las aplicaciones de demostración y los prototipos experimentales.
 
+### Sitios corporativos
+
+- [SatCore Corporative](https://github.com/satcoresolutions/satcore-corporative) — proyecto web corporativo de SatCore Solutions.
+- [SatCore Corp](https://github.com/satcoresolutions/satcore-corp) — proyecto web relacionado con la presencia corporativa de SatCore Solutions.
+
+---
+
+## Proyectos desarrollados para clientes
+
+Esta categoría reúne proyectos digitales desarrollados por SatCore Solutions para clientes, de acuerdo con sus necesidades y objetivos particulares.
+
+- [Pizzería Dsofy](https://github.com/satcoresolutions/pizzeria-dsofy) — proyecto web desarrollado para un cliente del sector gastronómico.
+
 ---
 
 ## Demos y prototipos
