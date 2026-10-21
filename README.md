@@ -424,16 +424,23 @@ Nuestro trabajo se centra principalmente en el desarrollo de software y comprend
 
 ### Microapps y soluciones comerciales
 
-Desarrollamos demos y plantillas que pueden servir como base para nuevos productos digitales o adaptarse a las necesidades específicas de cada cliente.
+Desarrollamos aplicaciones independientes, demos y plantillas diseñadas para responder a necesidades específicas de negocios y facilitar la creación de nuevos productos digitales.
 
-Estas soluciones se organizan por categorías, como **venta y comercio**, para facilitar la identificación de proyectos según su finalidad y el tipo de necesidad que buscan resolver.
+Nuestros proyectos se organizan por categorías, como venta y comercio, para facilitar su exploración y permitir que cada usuario identifique las soluciones que mejor se adapten a sus necesidades.
 
-Cada repositorio puede incluir información sobre sus funcionalidades, tecnologías, requisitos de instalación, demostraciones y posibilidades de personalización, según las características del proyecto.
+**Proyecto destacado**
+
+- **[SatCore Card](https://github.com/satcoresolutions/satcore-card):** consulta este repositorio para conocer uno de nuestros proyectos de microapps.
+
+Explora nuestros repositorios para descubrir más proyectos, consultar su documentación y conocer las tecnologías utilizadas.
 
 <div align="center">
-  <p><strong>Explora nuestros repositorios y descubre las soluciones que estamos construyendo.</strong></p>
+  <a href="https://github.com/satcoresolutions/satcore-card">
+    <img src="https://img.shields.io/badge/Ver%20SatCore%20Card-132A8E?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio de SatCore Card" />
+  </a>
+  &nbsp;
   <a href="https://github.com/satcoresolutions">
-    <img src="https://img.shields.io/badge/Explorar%20repositorios-132A8E?style=for-the-badge&logo=github&logoColor=white" alt="Explorar repositorios de SatCore Solutions" />
+    <img src="https://img.shields.io/badge/Explorar%20todos%20los%20repositorios-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Explorar todos los repositorios de SatCore Solutions" />
   </a>
 </div>
 
