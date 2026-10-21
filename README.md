@@ -412,7 +412,7 @@ Desarrollamos soluciones para:
 
 Nuestra organización en GitHub es el espacio donde diseñamos, desarrollamos, mantenemos y compartimos proyectos de software, aplicaciones independientes, experimentos técnicos, herramientas reutilizables y recursos tecnológicos.
 
-Organizamos nuestros repositorios por categorías para facilitar su exploración y permitir que nuestra comunidad conozca las soluciones que desarrollamos, las tecnologías que utilizamos y las posibilidades de aplicación de cada proyecto.
+Organizamos nuestros repositorios por categorías para facilitar su exploración y permitir que nuestra comunidad conozca las soluciones que desarrollamos, las tecnologías que utilizamos y sus posibilidades de aplicación.
 
 Nuestro trabajo se centra principalmente en el desarrollo de software y comprende las siguientes categorías:
 
@@ -424,23 +424,56 @@ Nuestro trabajo se centra principalmente en el desarrollo de software y comprend
 
 ### Microapps y soluciones comerciales
 
-Desarrollamos aplicaciones independientes, demos y plantillas diseñadas para responder a necesidades específicas de negocios y facilitar la creación de nuevos productos digitales.
+Desarrollamos aplicaciones independientes, demos y plantillas que ayudan a resolver necesidades concretas de los negocios. Estas soluciones pueden utilizarse como herramientas digitales, servir como base para nuevos proyectos o adaptarse a los requerimientos de cada cliente.
 
-Nuestros proyectos se organizan por categorías, como venta y comercio, para facilitar su exploración y permitir que cada usuario identifique las soluciones que mejor se adapten a sus necesidades.
+Organizamos nuestras microapps por categorías funcionales para facilitar su exploración e identificar las soluciones más adecuadas según las necesidades de cada negocio.
 
-**Proyecto destacado**
+#### Ventas y servicios comerciales
 
-- **[SatCore Card](https://github.com/satcoresolutions/satcore-card):** consulta este repositorio para conocer uno de nuestros proyectos de microapps.
+Esta categoría reúne microapps orientadas a la gestión comercial, la atención al cliente, la fidelización, la administración de ventas y la digitalización de servicios para negocios.
 
-Explora nuestros repositorios para descubrir más proyectos, consultar su documentación y conocer las tecnologías utilizadas.
+**Tarjetas digitales, identificación y acceso**
+
+- [SatCore Card](https://github.com/satcoresolutions/satcore-card) — proyecto de tarjetas digitales.
+- [SatCore QR](https://github.com/satcoresolutions/satcore-qr) — solución basada en códigos QR.
+
+**Marketing, promociones y fidelización**
+
+- [Cuponera Digital](https://github.com/satcoresolutions/cuponera-digital) — gestión y presentación de cupones digitales.
+- [Programa de Fidelización](https://github.com/satcoresolutions/programa-fidelizacion) — herramientas para programas de fidelización de clientes.
+
+**Gestión de clientes y compras**
+
+- [Historial de Compras](https://github.com/satcoresolutions/historial-compras) — consulta y seguimiento del historial de compras.
+- [Lista de Clientes](https://github.com/satcoresolutions/lista-clientes) — organización y gestión de información de clientes.
+
+**Documentos comerciales**
+
+- [Generador de Recibos](https://github.com/satcoresolutions/generador-recibos) — generación de recibos comerciales.
+- [Generador de Facturas](https://github.com/satcoresolutions/generador-facturas) — generación de documentos de facturación.
+- [Generador de Cotizaciones](https://github.com/satcoresolutions/satcore-generador-cotizaciones) — elaboración de cotizaciones comerciales.
+
+**Restaurantes, pedidos y menús digitales**
+
+- [SatCore Menú Digital QR](https://github.com/satcoresolutions/satcore-menu-digital-qr) — presentación de menús digitales mediante códigos QR.
+- [SatCore Comandas Digitales](https://github.com/satcoresolutions/satcore-comandas-digitales) — gestión digital de comandas y pedidos.
+
+**Control y administración comercial**
+
+- [SatCore Control de Caja](https://github.com/satcoresolutions/satcore-control-caja) — apoyo al control de caja.
+- [SatCore Control de Ventas](https://github.com/satcoresolutions/satcore-control-ventas) — seguimiento y control de ventas.
+- [SatCore Calculadora de Precios](https://github.com/satcoresolutions/satcore-calculadora-precios) — cálculo de precios para productos o servicios.
+
+Cada repositorio contiene su propio código y documentación. Consulta el proyecto correspondiente para conocer sus funcionalidades, tecnologías, requisitos de instalación, demostraciones y posibilidades de personalización.
+
+### Explora nuestros repositorios
+
+Continuamos desarrollando soluciones tecnológicas y ampliando nuestro catálogo de proyectos. Explora nuestra organización para conocer más iniciativas, consultar el código disponible y descubrir nuevas herramientas.
 
 <div align="center">
-  <a href="https://github.com/satcoresolutions/satcore-card">
-    <img src="https://img.shields.io/badge/Ver%20SatCore%20Card-132A8E?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio de SatCore Card" />
-  </a>
-  &nbsp;
+  <p><strong>Explora nuestros repositorios y descubre las soluciones que estamos construyendo.</strong></p>
   <a href="https://github.com/satcoresolutions">
-    <img src="https://img.shields.io/badge/Explorar%20todos%20los%20repositorios-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Explorar todos los repositorios de SatCore Solutions" />
+    <img src="https://img.shields.io/badge/Explorar%20repositorios-132A8E?style=for-the-badge&logo=github&logoColor=white" alt="Explorar repositorios de SatCore Solutions" />
   </a>
 </div>
 
